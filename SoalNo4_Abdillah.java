@@ -1,0 +1,8 @@
+public class SoalNo4_Abdillah {
+    public static void main(String[] args) {
+        int jumlahOrang = 10;
+
+        String result = (jumlahOrang <= 8) ? "Lift bisa jalan." : "Terlalu penuh, tunggu lift berikutnya.";
+        System.out.println(result);
+    }
+}
